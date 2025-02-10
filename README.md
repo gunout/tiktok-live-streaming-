@@ -29,6 +29,16 @@ Ce projet vous permet de diffuser en direct sur TikTok depuis votre PC Ubuntu 24
 4. Lancez le script pour commencer à diffuser :
     ```bash
     python3 scripts/stream_to_tiktok.py
+
+1. Ouvrez OBS Studio.
+2. Cliquez sur "Paramètres" dans le coin inférieur droit.
+3. Allez dans l'onglet "Stream".
+4. Dans "Service", sélectionnez "Custom".
+5. Dans "URL", entrez l'URL du serveur RTMP TikTok (par exemple, "rtmp://live.tiktok.com").
+6. Dans "Stream Key", entrez votre clé RTMP obtenue via TikTok.
+7. Cliquez sur "OK" pour enregistrer.
+
+    
     ```
 
 ## Note
