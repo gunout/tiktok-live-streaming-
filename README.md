@@ -27,7 +27,7 @@ Ce projet vous permet de diffuser en direct sur TikTok depuis votre PC Ubuntu 24
 
 4. Lancez le script pour commencer à diffuser :
     ```bash
-    python3 scripts/stream_to_tiktok.py
+    python3 stream_to_tiktok.py
     ```
 
 ## Note
