@@ -1,0 +1,3 @@
+Import opencv-python
+Import pyautogui
+Import numpy
